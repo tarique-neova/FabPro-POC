@@ -1,0 +1,10 @@
+{
+  "credentials": {
+    "username": "sholzinger@fabpro1.com",
+    "password": "fab12e456!47"
+  },
+  "testrail": {
+    "project_name": "Fabpro",
+    "suite_name": "JobsDetails"
+  }
+}

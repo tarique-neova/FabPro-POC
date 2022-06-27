@@ -1,0 +1,20 @@
+{
+  "create_job_data": {
+    "job_name": "Fabpro_2309",
+    "job_number": 2309,
+    "due_date": "06-30-2022",
+    "job_site": "1137 29th Street NEW",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "zip_code": "52402",
+    "budget_hrs": 10,
+    "cost_code": "20",
+    "test_area": "NJ",
+    "test_description": "abc",
+    "budget_cost": "230",
+    "package_name": "xyz",
+    "package_number": "125",
+    "mname": "Testcase"
+  },
+  "update_job_data": {}
+}
