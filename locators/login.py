@@ -1,0 +1,5 @@
+USERNAME = "//form//input[@name='username']"
+PASSWORD = "//form//input[@name='password']"
+LOGIN_BUTTON = "//form//input[@type='submit']"
+MSUIT = "//div[@class='login-form']//img"
+FABPRO_IMAGE = "//img[@alt='Link to FabPro']"
