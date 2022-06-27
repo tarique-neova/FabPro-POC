@@ -3,10 +3,8 @@ import logging
 import random
 import time
 from datetime import datetime, timedelta
-
 from selenium.webdriver import Keys
 from selenium.webdriver.support.select import Select
-
 import conftest
 from helper import constants
 from lib import utils, testrail
