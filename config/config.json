@@ -1,0 +1,13 @@
+{
+  "credentials": {
+    "username": "sholzinger@fabpro1.com",
+    "password": "fab12e456!47"
+  },
+  "testrail": {
+    "project_name": "Fabpro",
+    "suite_name": "JobsDetails",
+    "username": "suryabhansingh1998@gmail.com",
+    "password": "A0959a6FSUDP8O2tuXCa",
+    "testrail_url": "https://neovasolutions.testrail.io"
+  }
+}
